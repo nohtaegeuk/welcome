@@ -108,5 +108,5 @@ SSO 로그인 방식을 사용하게 되면 사용자는 1회 사용자 인증�
 ### 🔸 시그니처(Signature)
 - Header 에서 정의한 알고리즘 방식을 통해 헤더 + 페이로드와 서버가 갖고 있는 유일한 key 값을 합친 것을 헤더에서 정의한 알고리즘으로 암호화합니다.
 
-<img align="left" width="100" height="100" src="15678D3C-C15F-4A48-89D9-93AA4FD3F4FB.jpeg">
+<img align="left" width="1000" height="1000" src="15678D3C-C15F-4A48-89D9-93AA4FD3F4FB.jpeg">
 
