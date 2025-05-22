@@ -110,3 +110,22 @@ SSO 로그인 방식을 사용하게 되면 사용자는 1회 사용자 인증�
 <img align="center" width="500" height="400" src="15678D3C-C15F-4A48-89D9-93AA4FD3F4FB.jpeg">
 
 
+
+### 참조
+```
+https://aws.amazon.com/ko/what-is/sso/
+https://velog.io/@duck-ach/SSO-SSOSingle-Sign-On%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C
+https://play-with.tistory.com/362
+https://hoime.tistory.com/94
+https://velopert.com/2389
+https://velog.io/@chuu1019/%EC%95%8C%EA%B3%A0-%EC%93%B0%EC%9E%90-JWTJson-Web-Token
+https://blog.bizspring.co.kr/%ED%85%8C%ED%81%AC/jwt-json-web-token-%EA%B5%AC%EC%A1%B0-%EC%82%AC%EC%9A%A9/
+https://velog.io/@duck-ach/SSO-SSOSingle-Sign-On%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C
+https://jwt.io/
+```
+
+
+
+
+
+
