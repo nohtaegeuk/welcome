@@ -59,6 +59,7 @@ SSO 로그인 방식을 사용하게 되면 사용자는 1회 사용자 인증�
 <img align="left" width="700" height="400" src="jwt프로세스.png">
 
 ---
+---
 
 ## 7. 세션 기반 인증 vs JWT (JWT의 발생배경)
 
